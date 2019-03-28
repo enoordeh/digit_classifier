@@ -1,7 +1,11 @@
 ## Neural network handwritten digit classifier
 
-Written as part of Coursera's Machine Learning class
+<p align="center">
+<img src="docs/images/digits.png" alt="digits" width="300" height="300">
+</p>
 
-![test](docs/images/digits.png){:height="50%" width="50%"}
+This is a simple neural network digit classifier written as part of Coursera's Machine Learning class.
 
-<img src="docs/images/digits.png" alt="digits" width="100" height="100">
+It has 97.5% accuracy in identifying single, handwritten digits from 0-9
+
+<img src="docs/images/3.png" alt="digits" width="70" height="70"> --> 3
