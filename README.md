@@ -5,5 +5,5 @@
 <h1 align="center">Digit classifier
 </h1>
 
-This is a simple neural network digit classifier written as part of [Coursera's Machine Learning](https://www.coursera.org/learn/machine-learning) class, written in Matlab. The [`classifier`][classifier/ex4.m]. 
+This is a simple neural network digit classifier written as part of [Coursera's Machine Learning](https://www.coursera.org/learn/machine-learning) class, written in Matlab. The [`classifier`](classifier/ex4.m). 
 
